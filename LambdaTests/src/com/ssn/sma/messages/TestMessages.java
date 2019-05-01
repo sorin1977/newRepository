@@ -10,7 +10,8 @@ public class TestMessages {
 		Message.send(mailer -> mailer.from().content());
 		//// what the hell???
 
-// maybe som changes are necesary
+// maybe some changes are necesary
+		// do some real work!!!
 		
 		
 
