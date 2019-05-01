@@ -7,6 +7,7 @@ public class TestMessages {
 		Message.send(mailer -> mailer.from().to().subject().content());
 		System.out.println("mail 2");
 		Message.send(mailer -> mailer.from().content());
+		//// what the hell???
 
 	}
 
