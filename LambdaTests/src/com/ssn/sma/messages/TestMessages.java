@@ -9,12 +9,11 @@ public class TestMessages {
 		System.out.println("mail 2");
 		Message.send(mailer -> mailer.from().content());
 		//// what the hell???
-
 		// maybe some changes are necesary
 		// do some real work!!!
-		
-		
-
+/*
+ * 
+ */
 	}
 
 }
